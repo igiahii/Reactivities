@@ -36,6 +36,9 @@
             "projectReferences": {
               "E:\\Courses\\Projects\\Reactivities\\Application\\Application.csproj": {
                 "projectPath": "E:\\Courses\\Projects\\Reactivities\\Application\\Application.csproj"
+              },
+              "E:\\Courses\\Projects\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "E:\\Courses\\Projects\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -276,6 +279,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

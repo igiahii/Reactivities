@@ -13,3 +13,4 @@ E:\Courses\Projects\Reactivities\Persistence\obj\Debug\net8.0\Persistence.dll
 E:\Courses\Projects\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 E:\Courses\Projects\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
 E:\Courses\Projects\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+E:\Courses\Projects\Reactivities\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
