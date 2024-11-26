@@ -14,3 +14,5 @@ E:\Courses\Projects\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence
 E:\Courses\Projects\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
 E:\Courses\Projects\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
 E:\Courses\Projects\Reactivities\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+E:\Courses\Projects\Reactivities\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+E:\Courses\Projects\Reactivities\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
